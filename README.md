@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @thunder1storm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @thunder1storm  
+🛡️ I’m a Cybersecurity Analyst passionate about Capture The Flag (CTF), penetration testing, and digital defense.  
+🌱 I’m currently learning advanced red teaming, malware analysis, and automation using Bash & Python.  
+👨‍💻 I’m building tools like the **Thunder CTF Toolkit** to simplify recon and exploitation workflows.  
+💞️ I’m looking to collaborate on open-source security tools, CTF write-ups, and threat intel integrations.  
 
-<!---
-thunder1storm/thunder1storm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
