@@ -1,4 +1,4 @@
-👋 Hi, I’m @thunder1storm  
+👋 Hi, I’m Steve Christopher
 🛡️ I’m a Cybersecurity Analyst passionate about Capture The Flag (CTF), penetration testing, and digital defense.  
 🌱 I’m currently learning advanced red teaming, malware analysis, and automation using Bash & Python.  
 👨‍💻 I’m building tools like the **Thunder CTF Toolkit** to simplify recon and exploitation workflows.  
